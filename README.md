@@ -1,7 +1,8 @@
 # Oracle SQL Performance Tuning Project
 
 ## Overview
-This project demonstrates real-world SQL performance tuning techniques in Oracle Database using Oracle XE with very large databases.
+This project demonstrates real-world SQL performance tuning techniques in Oracle Database using Oracle XE with very large databases and focuses on understanding Oracle optimizer behavior rather than forcing plan changes.
+
 
 The goal is to analyze why SQL queries perform poorly, understand Oracle's Cost-Based Optimizer decisions, and apply the correct tuning strategies rather than forcing suboptimal plans.
 
